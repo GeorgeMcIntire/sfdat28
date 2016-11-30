@@ -405,7 +405,10 @@ Today we are going to talk about four major things as related to advanced sklear
 * LDA [explained](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
 * LSA [tutorial](http://mccormickml.com/2016/03/25/lsa-for-text-classification-tutorial/)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 46df7b9338abf75d955f9f4a045c15073979df38
 
 ### Class 15: Stochastic Gradient Descent
 
@@ -442,4 +445,7 @@ Today we are going to talk about four major things as related to advanced sklear
 * Blog [post](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19#.u53gezr8l) on Object Detection
 * Beginner [tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html) for tensorflow
 * Directory of training in [Tensorflow](https://www.tensorflow.org/versions/r0.11/api_docs/python/train.html)
+<<<<<<< HEAD
 >>>>>>> 6b63a1d18b9b877db620c838b00b153529e7dc5c
+=======
+>>>>>>> 46df7b9338abf75d955f9f4a045c15073979df38
