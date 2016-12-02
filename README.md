@@ -446,6 +446,25 @@ Today we are going to talk about four major things as related to advanced sklear
 * Beginner [tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html) for tensorflow
 * Directory of training in [Tensorflow](https://www.tensorflow.org/versions/r0.11/api_docs/python/train.html)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 6b63a1d18b9b877db620c838b00b153529e7dc5c
 =======
 >>>>>>> 46df7b9338abf75d955f9f4a045c15073979df38
+=======
+
+
+### Class 17: Recommendation Engines
+
+**Agenda**
+
+* See how companies like Pandora, Spotify, and Netflix make their recommendations
+* Slides [here](slides/17_recommendation_engines.pdf)
+* notebook [here](notebooks/17_recommenders.ipynb)
+
+
+**Resources**
+
+* Website on [The Netflix Prize](http://www.netflixprize.com/)
+* Another [intro to recommendation engines](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
+* Using Kmeans to [make clusters for recommending](http://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/)
+>>>>>>> b5bd8fd396a080e91b0a5a256613a2f018b37ae2
